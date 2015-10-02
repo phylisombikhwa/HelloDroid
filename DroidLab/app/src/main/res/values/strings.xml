@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DroidLab</string>
+
+    <string name="hello_world">Droid Lab!</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
